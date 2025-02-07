@@ -1,1 +1,1 @@
-https://education-gamification-backend.onrender.com
+https://education-gamification-backend-4brz.onrender.com/
